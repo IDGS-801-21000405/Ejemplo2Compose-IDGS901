@@ -48,7 +48,6 @@ fun operacionesDosNumeros() {
             keyboardOptions = KeyboardOptions(keyboardType = KeyboardType.Number)
         )
 
-        // RadioButtons para seleccionar la operación
         Column {
             listOf("suma", "resta", "multiplicacion", "division").forEach { operacion ->
                 Row(

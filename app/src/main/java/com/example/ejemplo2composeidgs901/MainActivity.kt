@@ -40,7 +40,7 @@ class MainActivity : ComponentActivity() {
 //                    PantallaDetalle(navController, nombre)
 //                }
 //            }
-            sumaDosNumeros()
+            operacionesDosNumeros()
         }
     }
 }
